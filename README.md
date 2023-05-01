@@ -1,9 +1,11 @@
 # TestingDeltaCognition
 ## Introduction
 This is a testing task of Delta Cognition about Question Answering system for research Paper.
+
 Home challenge for the technical part.
  
 ---START---
+
 The purpose of this task is to implement the machine learning models that provide the descriptive answer to the given query based on the list of research papers. For example, the given query can be “What is Graph Neural Network?”, and the corresponding answer will be the description that is similar to this “Graph Neural Network (GNN) is a class of ANN for processing data that can be presented as graphs. The latest research work related to GNN includes [1] … [2] … [3] …”. 
  
 Input: A query 
@@ -14,6 +16,7 @@ Framework: PyTorch or Tensorflow
 API: FastAPI (Python) 
 Presentation: Gradio (Python) 
 Database: SQL or NoSQL 
+
 ---END---
 ## Quick Start
 
