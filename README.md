@@ -16,6 +16,6 @@ This is a testing task of Delta Cognition about Question Answering system for re
   source ./bin/activate
   ```
 * Install other requirements. 
-```angular2html
-python3 -m pip install -r requirements.txt
-```
+  ```angular2html
+  python3 -m pip install -r requirements.txt
+  ```
